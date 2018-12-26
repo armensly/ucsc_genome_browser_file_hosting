@@ -1,4 +1,5 @@
 # ucsc_genome_browser_file_hosting
+## NOTE: although these filenames are atac1 they come from atac0, too lazy to rename
 I keep the files that need to be web-accessed by UCSC genome browser to be displayed here
 
 Upload on ucsc genome browser using:
